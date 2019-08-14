@@ -1,4 +1,0 @@
-username:pediatric-activity-data
-password:123qwe.com$%^&
-GitHub Project's url:
-https://github.com/pediatric-activity-data/pediatric_activity_data.git
